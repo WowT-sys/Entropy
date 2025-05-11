@@ -21,7 +21,7 @@ This C++ program demonstrates a technique to manipulate the entropy of a compile
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BinaryEntropyManipulation.git
+   git clone https://github.com/WowT-sys/BinaryEntropyManipulation.git
    cd BinaryEntropyManipulation
    ```
 2. Compile the program:
